@@ -2,6 +2,7 @@
 
 ## Introdução
 Este projeto consiste em uma REST API que realiza a conversão de moedas.
+Inspirado no projeto/desafio [back-end-challenge]
 
 ## Especificações
 A API permite a conversão entre diferentes moedas seguindo a estrutura de URL:
