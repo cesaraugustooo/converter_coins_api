@@ -86,16 +86,3 @@ php -S localhost:8000 index.php
 ```
 
 
-## Contribuição
-1. Faça um fork deste repositório.
-2. Crie um branch com seu nome e sobrenome (exemplo: `joazinho-desouza`).
-3. Após finalizar a implementação, crie um Pull Request.
-4. Aguarde a revisão de um contribuidor.
-
-## Requisitos
-- PHP >= 7.4
-- Programação orientada a objetos
-
-## Dúvidas
-Caso tenha alguma dúvida, crie uma issue no repositório.
-
